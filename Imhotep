@@ -36,6 +36,38 @@
         "LaserPrestige": "/proxy/api/imgur/chapter/W5mMTqk/"
       },
       "last_updated": "1616368746"
+    },
+ "5": {
+      "title": "Cloudy Sky",
+      "volume": "2",
+      "groups": {
+        "LaserPrestige": "/proxy/api/imgur/chapter/HvplGTT/"
+      },
+      "last_updated": "1616368746"
+    },
+ "6": {
+      "title": "The Sun And The Moon",
+      "volume": "2",
+      "groups": {
+        "LaserPrestige": "/proxy/api/imgur/chapter/uDXG72f/"
+      },
+      "last_updated": "1616368746"
+    },
+ "7": {
+      "title": "Setting Sun",
+      "volume": "2",
+      "groups": {
+        "LaserPrestige": "/proxy/api/imgur/chapter/tqQjhFI/"
+      },
+      "last_updated": "1616368746"
+    },
+ "7.5": {
+      "title": "IM: Pilot Version",
+      "volume": "2",
+      "groups": {
+        "LaserPrestige": "/proxy/api/imgur/chapter/hd9El9Z/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
