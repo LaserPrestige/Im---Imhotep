@@ -260,6 +260,38 @@
         "LaserPrestige": "/proxy/api/imgur/chapter/Rbh4AOD/"
       },
       "last_updated": "1616368746"
+    },
+ "32": {
+      "title": "Last Summer",
+      "volume": "9",
+      "groups": {
+        "LaserPrestige": "/proxy/api/imgur/chapter/7AWETdl/"
+      },
+      "last_updated": "1616368746"
+    },
+ "33": {
+      "title": "The Promise Exchanged With The World",
+      "volume": "9",
+      "groups": {
+        "LaserPrestige": "/proxy/api/imgur/chapter/EnFwi5d/"
+      },
+      "last_updated": "1616368746"
+    },
+ "34": {
+      "title": "Each Of Their Vows",
+      "volume": "<volume number>",
+      "groups": {
+        "LaserPrestige": "/proxy/api/imgur/chapter/ulZjaeS/"
+      },
+      "last_updated": "1616368746"
+    },
+ "35": {
+      "title": "Our Complicated Confessions",
+      "volume": "9",
+      "groups": {
+        "LaserPrestige": "/proxy/api/imgur/chapter/6staRQc/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }
